@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6e30a72a.chunk.css",
+    "main.js": "/static/js/main.0d520dce.chunk.js",
+    "main.js.map": "/static/js/main.0d520dce.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ceaf4b5f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ceaf4b5f.js.map",
+    "static/js/2.5937081a.chunk.js": "/static/js/2.5937081a.chunk.js",
+    "static/js/2.5937081a.chunk.js.map": "/static/js/2.5937081a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c264954a2b3d81e25ec61b75566298de.js": "/precache-manifest.c264954a2b3d81e25ec61b75566298de.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.6e30a72a.chunk.css.map": "/static/css/main.6e30a72a.chunk.css.map",
+    "static/js/2.5937081a.chunk.js.LICENSE.txt": "/static/js/2.5937081a.chunk.js.LICENSE.txt",
+    "static/media/ambersmith-thumb.png": "/static/media/ambersmith-thumb.431f0af8.png",
+    "static/media/logo.svg": "/static/media/logo.142b7c74.svg",
+    "static/media/oxapt-thumb.png": "/static/media/oxapt-thumb.46549991.png",
+    "static/media/vvs.png": "/static/media/vvs.a0603947.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ceaf4b5f.js",
+    "static/js/2.5937081a.chunk.js",
+    "static/css/main.6e30a72a.chunk.css",
+    "static/js/main.0d520dce.chunk.js"
+  ]
+}
